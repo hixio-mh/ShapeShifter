@@ -59,7 +59,7 @@
     "reselect": "^3.0.1",
     "rxjs": "^6.3.3",
     "stream-browserify": "^2.0.1",
-    "svgo": "^1.0.5",
+    "svgo": "^2.0.0",
     "tinycolor2": "^1.4.1",
     "tslib": "^1.9.2",
     "zone.js": "^0.8.26"
