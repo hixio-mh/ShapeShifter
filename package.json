@@ -76,7 +76,7 @@
     "@types/node": "10.5.4",
     "@types/polylabel": "^1.0.5",
     "@types/tinycolor2": "^1.4.0",
-    "angular-cli-ghpages": "^0.5.2",
+    "angular-cli-ghpages": "^1.0.5",
     "codelyzer": "^4.3.0",
     "coveralls": "^3.0.1",
     "deep-freeze-strict": "^1.1.1",
